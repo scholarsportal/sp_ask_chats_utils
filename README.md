@@ -35,3 +35,11 @@ chats = remove_practice_queues(chats):
 ## Code of Conduct
 
 Everyone interacting in the project's codebases, issue trackers, chat rooms, and mailing lists is expected to follow the [PyPA Code of Conduct](https://www.pypa.io/en/latest/code-of-conduct/).
+
+## Todo
+
+1.  Add tests
+3.  Add Makefile
+4.  ~~Add pypi~~
+5.  ~~Create python package~~
+7.  Create a README.rst for pypi
