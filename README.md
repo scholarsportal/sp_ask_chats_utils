@@ -1,4 +1,4 @@
-# Ask Schools
+# SP Ask Chats Utils
 
 [
 ![PyPI](https://img.shields.io/pypi/v/sp_ask_chats_utils.svg)
@@ -13,7 +13,7 @@ This package helps to filter Chats
 
 ## Installation
 
-**Ask Schools** can be installed from PyPI using `pip` or your package manager of choice:
+**SP Ask Chats Utils** can be installed from PyPI using `pip` or your package manager of choice:
 
 ```
 pip install sp_ask_chats_utils
